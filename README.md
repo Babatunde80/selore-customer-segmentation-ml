@@ -1,4 +1,5 @@
 # Selore Customer Segmentation ML for Retail Analytics
+<img width="1536" height="1024" alt="Copilot_20260224_112442" src="https://github.com/user-attachments/assets/d350a0b9-ea43-4bd9-b67a-f93fdfdcf4df" />
 
 ## Project Overview
 A machine learning-based customer segmentation system for retail analytics using unsupervised clustering techniques. This project leverages **K-Means Clustering** algorithms to identify distinct customer groups based on purchasing behavior and demographics, supporting targeted marketing strategies and personalized customer experiences.

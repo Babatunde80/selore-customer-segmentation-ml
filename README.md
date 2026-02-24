@@ -122,3 +122,9 @@ Implement segment-specific strategies to maximize revenue and customer satisfact
 - Integrate with marketing automation platforms (Salesforce, HubSpot) for automated campaigns
 - Develop segment-specific KPIs and dashboards for ongoing performance tracking
 - Scale model to other retail locations and product categories
+
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
